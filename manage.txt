@@ -1,0 +1,10 @@
+
+
+Manage a project as a group or manage a personal project using github.com
+--------------------------------------------------------------------------
+
+1) Login to github.com and create a new repository with name same as local folder.
+2) Create a repository link to connect it from our local folder
+
+	Access Token
+	-------------
